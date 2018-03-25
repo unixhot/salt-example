@@ -1,13 +1,13 @@
 # salt-example
-SaltStack自动化部署中小型Web架构
+【DevOps学院】SaltStack自动化部署中小型Web架构
 
 ## 案例说明
 
-* 实践、实践、再实践，本案例主要为了学习SaltStack，生产也可使用。
+* 实践、实践、再实践，本案例主要为了学习SaltStack，通过一个中小型Web架构的自动化管理，来深入学习SaltStack，本案例生产修改后也可直接使用。
 
-## 广而告之
+## SaltStack在线课程套餐
 
-* 基于SaltStack的自动化运维实战。[http://www.devopsedu.com/front/couinfo/49]
+* 《基于SaltStack的自动化运维实战》。[http://www.devopsedu.com/front/couinfo/49]
 
 ## 案例架构图
 
