@@ -11,4 +11,4 @@ SaltStack自动化部署中小型Web架构
 
 ## 案例架构图
 
-  ![架构图](https://github.com/unixhot/saltbook-example/blob/master/saltstack-arch.jpg)
+  ![架构图](https://github.com/unixhot/salt-example/blob/master/saltstack-arch.jpg)
