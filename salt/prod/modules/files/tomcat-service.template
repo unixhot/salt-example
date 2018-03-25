@@ -1,0 +1,13 @@
+[Unit] 
+Description=Apache Tomcat 8 
+After=syslog.target network.target 
+[Service] 
+Type=forking 
+ExecStart=/usr/local/tomcat/bin/startup.sh 
+ExecReload=/bin/kill -s HUP $MAINPID 
+ExecStop=/bin/kill -s QUIT $MAINPID 
+PrivateTmp=true 
+User=www
+Group=www 
+[Install] 
+WantedBy=multi-user.target
