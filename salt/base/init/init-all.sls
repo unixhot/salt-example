@@ -5,7 +5,7 @@ include:
   - init.ssh
   - init.tty-style
   - init.yum-repo
-  - init.dns
+ # - init.dns
   - init.history
   - init.pkg-base
   - init.sysctl
