@@ -57,5 +57,6 @@
 #@faculty        hard    nproc           50
 #ftp             hard    nproc           0
 #@student        -       maxlogins       4
-
+*                soft    nproc           65536
+*                hard    nproc           65536
 # End of file
